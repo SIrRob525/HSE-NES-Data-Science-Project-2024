@@ -32,5 +32,6 @@
 5. Работа с геоданными: использование библиотек `pycountry` (https://pypi.org/project/pycountry/), `iso3166` (https://pypi.org/project/iso3166/), `universities` (https://pypi.org/project/universities/) для парсинга кода страны из ее названия/названия университета;
 6. Работа с геоданными: использование `plotly` для построения интерактивной карты;
 7. Работа с `pandas`, в т.ч. группировка (по стране);
-8. Работа с CrossRef REST API (https://www.crossref.org/documentation/retrieve-metadata/rest-api/) для получения данных о цитировании;
-9. Построение сетевого графа с помошью `networkx` и `igraph`.
+8. Визуализация данных: библиотеки `matplotlib`, `plotly` и `igraph`;
+9. Работа с CrossRef REST API (https://www.crossref.org/documentation/retrieve-metadata/rest-api/) для получения данных о цитировании;
+10. Построение сетевого графа с помошью `networkx` и `igraph`.
