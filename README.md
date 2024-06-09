@@ -12,14 +12,26 @@
 
 **Выводы:** 
 1. Подтвердилась гипотеза об экспоненциальном росте числа работ.
- ![image](https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/a881c64c-a8ac-4765-855f-68707a0e99b9) ![image](https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/e130db99-e315-49a6-b514-c06d7af96062)
+   
+ Число работ для каждого года: 
+ 
+ ![image](https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/a881c64c-a8ac-4765-855f-68707a0e99b9) 
+
+ Логарифм числа работ и линейная аппроксимация (без учета 2024 года):
+ 
+ ![image](https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/e130db99-e315-49a6-b514-c06d7af96062)
 
 
 2. Частично подтвердилась гипотеза о распределении числа публикаций по странам. Данные в базе неполные. Чтобы получить корректный ответ, необходимо собрать более точные данные по всем работам, что, вероятно, очень непросто.
+
+   Распределение числа публикаций по странам:
+   
    ![image](https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/024e6f09-0968-46ca-87cb-92da1a2b5348)
 
    
 3. Не подтвердилась гипотеза о виде сетевого графа. Необходимо собрать данные о связях между работами, чтобы построить общий граф.
+
+   Сетевой граф случайных работ 2024 года (~700 работ + ссылки из них):
    
    <img width="709" alt="image" src="https://github.com/SIrRob525/HSE-NES-Data-Science-Project-2024/assets/74403363/4b6e8e5f-e41c-4f9e-9acd-5002d1d02a14">
 
